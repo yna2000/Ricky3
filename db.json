@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "location": "Andaman & Nicobar",
+    "capital": "Port Blair",
+    "img": "https://dynamic.tourtravelworld.com/package-images/photo-big/dir_17/486726/202664.jpg",
+    "tourist": [
+      {
+        "name": "Cartoon-Inspired Designs",
+        "info": "Delight your kids or channel your inner child with custom cartoon designs tailored just for you. ",
+        "images": "https://scontent.xx.fbcdn.net/v/t1.15752-9/462571110_1717450719110656_8326589101122313957_n.png?_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE9O7J3EY6kh6lqUSNPyrkbc4NVsvenyFJzg1Wy96fIUl7b09U0oET_znqex6FjhKiNRHEtFb_dPF6RwNKDhTNA&_nc_ohc=fXcv745dDQIQ7kNvgFrv2eQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHCGr9ItYvrE5JkxfsdG8-5s21VAgE5RAWnlNkt2FqK8Q&oe=6770EC75",
+        "price": "19999",
+        "package": "",
+        "catogary": "cartoon",
+        "Rating": "9.2/10 Wonderful (1,009 reviews)",
+        "Rate": 9.2
+      },
+      {
+        "name": "CELLULAR JAIL,PORT BLAIR",
+        "info": "It has been an important historical part of Port Blair. Notable freedom fighters such as Veer Savarkar, Yogendra Shukla, Batukeshwar Dutt, and Babarao Savarkar were some of the inmates here. Don’t miss the light and sound show(Monday, Wednesday and Friday) when you visit Cellular jail. ",
+        "images": "https://lh3.googleusercontent.com/p/AF1QipN1mdi9n1D_pUWX9puWYXdNRAqihXvWdUs7Z8nG=s1360-w1360-h1020",
+        "price": 51000,
+        "package": "4 Nights / 5 Days",
+        "catogary": "Fort",
+        "Rating": "8.4/10 Excellent (469 reviews)",
+        "Rate": 8.4
+      },
+  
